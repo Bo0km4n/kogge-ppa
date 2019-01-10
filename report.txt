@@ -1,0 +1,8 @@
+## kogge
+area = 388
+timing = 23.10 
+area * sqrt(timing) = 
+## sklansky
+area = 301
+timing = 25.50
+area * sqrt(timing) = 442.4 
